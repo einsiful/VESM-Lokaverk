@@ -22,3 +22,5 @@ Maður hafði í raun látið sig gleyma þessu VESM verkefni. Maður spreitti s
 ## Kóðinn er Hér
 [Code 1](https://github.com/einsiful/VESM-Lokaverk/blob/master/Code1.cc)
 
+[Code 2](https://github.com/einsiful/VESM-Lokaverk/blob/master/Code2.cc)
+
