@@ -17,7 +17,9 @@ Maður hafði í raun látið sig gleyma þessu VESM verkefni. Maður spreitti s
 
 ## Hér er Bíllin.
 
-[ýttu hér](https://www.tinkercad.com/things/dzoDaGXM1PV)
+[Hér er inní Bílnum](https://www.tinkercad.com/things/dzoDaGXM1PV)
+
+[Hér er Bodyið á bílnumm](https://www.tinkercad.com/things/5PNd276XA64)
 
 ## Kóðinn er Hér
 [Code 1](https://github.com/einsiful/VESM-Lokaverk/blob/master/Code1.cc)
