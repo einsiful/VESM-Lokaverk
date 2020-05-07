@@ -20,5 +20,5 @@ Maður hafði í raun látið sig gleyma þessu VESM verkefni. Maður spreitti s
 [ýttu hér](https://www.tinkercad.com/things/dzoDaGXM1PV)
 
 ## Kóðinn er Hér
-Code 1
+[Code 1](https://github.com/einsiful/VESM-Lokaverk/blob/master/Code1.cc)
 
