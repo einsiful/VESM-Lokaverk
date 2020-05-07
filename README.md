@@ -15,5 +15,10 @@ Maður hafði í raun látið sig gleyma þessu VESM verkefni. Maður spreitti s
 
 Þetta var mjög erfitt verkefni að mínu mati en samt ágætt að hafa náð að skilja það aðeins og klára það.
 
-Hér er Bíllin
-['yttu hér](https://www.tinkercad.com/things/dzoDaGXM1PV)
+## Hér er Bíllin.
+
+[ýttu hér](https://www.tinkercad.com/things/dzoDaGXM1PV)
+
+## Kóðinn er Hér
+Code 1
+
